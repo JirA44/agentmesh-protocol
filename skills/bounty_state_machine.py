@@ -123,3 +123,6 @@ def transition(bounty: Bounty, new_status: str, **kwargs) -> Bounty:
 
     bounty.status = new_status
     return bounty
+
+
+// Fix applied
