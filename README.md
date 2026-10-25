@@ -1,3 +1,13 @@
+## Français
+
+Protocoles Solana SAP-8183 et SAP-8004 pour l’exécution de tâches d’agents IA, avec paiement USDC x402 et évaluation. Exemple : intégrer un flux de tâche entre agents en testnet et vérifier les paiements avant usage réel.
+
+## English
+
+Solana protocols SAP-8183 and SAP-8004 for AI agent task execution, with x402 USDC payments and evaluation. Example: integrate an agent task flow on testnet and verify payments before real-world use.
+
+---
+
 # AgentMesh Protocol
 
 **Solana-native protocols for autonomous AI agent commerce.**
